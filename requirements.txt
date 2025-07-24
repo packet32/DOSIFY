@@ -1,0 +1,6 @@
+# DOSIFY Requirements
+# No additional Python packages required
+# System dependencies:
+# - hping3 (install via: sudo apt install hping3)
+# - python3 (usually pre-installed)
+# - root/sudo privileges for raw socket operations
